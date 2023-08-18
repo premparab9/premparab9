@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on something<br>👯 I’m looking to collaborate on everything<br>🤝 I’m looking for help with college<br>🌱 I’m currently learning engineering<br>💬 Ask me about everything<br>⚡ Fun fact- not interested
+
+
 
 
 ## 🌐 Socials:
